@@ -1,0 +1,15 @@
+/vagrant/verilog_lab/lab3/mux4.v {1 {vlog -work work -stats=none /vagrant/verilog_lab/lab3/mux4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux4
+
+Top level modules:
+	mux4
+
+} {} {}} /vagrant/verilog_lab/lab3/mux4_sim.v {1 {vlog -work work -stats=none /vagrant/verilog_lab/lab3/mux4_sim.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux4_sim
+
+Top level modules:
+	mux4_sim
+
+} {} {}}

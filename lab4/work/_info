@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/vagrant/verilog_lab/lab3
+vseven
+Z0 !s110 1507193458
+!i10b 1
+!s100 NHN^m`aO6TTA]GCcZQ>?31
+IHT?b21>e1lGOX6nId[n^i1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d/vagrant/verilog_lab/lab4
+w1507193450
+8/vagrant/verilog_lab/lab4/seven.v
+F/vagrant/verilog_lab/lab4/seven.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1507193458.000000
+!s107 /vagrant/verilog_lab/lab4/seven.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/vagrant/verilog_lab/lab4/seven.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vseven_sim
+R0
+!i10b 1
+!s100 T;:6JI[i8k@]VofnIj^l=2
+I]=Y`ISz23Bf=QPU`Ti5]^1
+R1
+R2
+w1435232594
+8/vagrant/verilog_lab/lab4/seven_sim.v
+F/vagrant/verilog_lab/lab4/seven_sim.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 /vagrant/verilog_lab/lab4/seven_sim.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/vagrant/verilog_lab/lab4/seven_sim.v|
+!i113 1
+R5
+R6
